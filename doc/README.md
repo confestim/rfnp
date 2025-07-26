@@ -20,8 +20,9 @@ Given my beginner status and full-time studies, here's a realistic (haha) timeli
 ```mermaid
 timeline
     title rfnp timeline
-    July-August : Learn DSP, C, embedded Rust(?); Breadboard circuits
-    September: PCB prototyping; Firmware in C; Radio experiments
+    July-August : Learn DSP, C, embedded Rust(?); Pinpoint hardware
+    September: Breadboard circuits + PCB prototyping; Firmware in C; Radio experiments
     September-October: Integrate radio module; T.30 protocol basics
-    November-December: MVP; Refine PCB/firmware; More Rust; Continue learning
+    November-December: MVP PCB; Integrate with actual fax machine (hard!)
+    December+: Make reproducible and reliable; Tests
 ```
